@@ -1,0 +1,5 @@
+name=小啊
+age=20
+gender=男
+height=167.5
+hobby=睡觉
